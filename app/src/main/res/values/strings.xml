@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fruit</string>
+    <string name="sort_name">Sort by Name</string>
+    <string name="sort_calories">Sort by Calories</string>
+    <string name="sort_order">Sort by Order</string>
+    <string name="sort_family">Sort by Family</string>
+    <string name="sort_genus">Sort by Genus</string>
+    <string name="favorites">Favorites</string>
+</resources>
